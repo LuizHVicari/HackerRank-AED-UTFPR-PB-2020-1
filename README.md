@@ -1,4 +1,4 @@
-# Grafos-AED-2-
+# HackerRank-AED-2-2020/1
 
 Códigos pedidos para o HackerRank de Algoritmos e Estruturas de Dados 2 da UTFPR-PB em 2020
 
