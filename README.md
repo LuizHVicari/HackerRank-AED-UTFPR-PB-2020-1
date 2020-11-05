@@ -14,6 +14,8 @@ Obs: os códigos aqui estão completos em suas páginas, pois o HackerRank não 
 
 Qualquer dúvida, você pode me mandar um e-mail no seguinte endereço: ikvicari@gmail.com, que eventualmente eu responderei.
 
+Obs: também foram feitos para a primeira prova exercícios de paradigmas de programação, mas por alguma razão, o GitHub não está me deixando postar eles aqui.
+
 ============================================================================
 
 Requested codes for "Algoritmos e Estruturas de Dados 2" for the university UTFPR - PB in 2020
