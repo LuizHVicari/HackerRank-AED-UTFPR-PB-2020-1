@@ -4,7 +4,7 @@ Códigos pedidos para o HackerRank de Algoritmos e Estruturas de Dados 2 da UTFP
 
 Nesse repositório se encontram os códigos que eu enviei ao HackerRank, esses são os originais dos últimos envios que fiz para cada código.
 
-Para fazê-los, tive ajuda e sugestões principalmente dos colegas Daniel Favero (Proyol), João Henrique Machado (joaoHenriqueMachado), Cinglair Capello e Jeferson Souza (Souzjef), como também do professor da matéria Jefferson Tales Oliva.
+Para fazê-los, tive ajuda e sugestões principalmente dos colegas Daniel Favero (Proyol), <a href="https://github.com/joaoHenriqueMachado">João Henrique Pereira Machado</a>, Cinglair Capello e Jeferson Souza (Souzjef), como também do professor da matéria Jefferson Tales Oliva.
 
 Alguns códigos neste repositório já se encontram comentados (para deixar mais limpo, comentei apenas as funções que eram necessárias para resolver os problemas das questões), os que ainda não estiverem, em breve serão atualizados.
 
