@@ -4,7 +4,7 @@ Códigos pedidos para o HackerRank de Algoritmos e Estruturas de Dados 2 da UTFP
 
 Nesse repositório se encontram os códigos que eu enviei ao HackerRank, esses são os originais dos últimos envios que fiz para cada código.
 
-Para fazê-los, tive ajuda e sugestões principalmente dos colegas Daniel Favero (Proyol), <a href="https://github.com/joaoHenriqueMachado">João Henrique Pereira Machado</a>, Cinglair Capello e Jeferson Souza (Souzjef), como também do professor da matéria Jefferson Tales Oliva.
+Para fazê-los, tive ajuda e sugestões principalmente dos colegas <a href="https://github.com/Proyol">Daniel Gustavo Favero</a>, <a href="https://github.com/joaoHenriqueMachado">João Henrique Pereira Machado</a>, <a href="https://github.com/cinglair"> Cinglair Augusto Capelo</a> e <a href="https://github.com/souzjfe">Jeferson Souza</a>, como também do professor da matéria <a href ="https://github.com/jefferson-oliva">Jefferson Tales Oliva</a>.
 
 Alguns códigos neste repositório já se encontram comentados (para deixar mais limpo, comentei apenas as funções que eram necessárias para resolver os problemas das questões), os que ainda não estiverem, em breve serão atualizados.
 
@@ -22,7 +22,7 @@ Requested codes for "Algoritmos e Estruturas de Dados 2" for the university UTFP
 
 In this repository, there are the codes I sent to HackerRank, these are the originals and last submitted ones I did for each exercise
 
-Some colleagues helped me and gave me some suggestions to make it, the main ones are: Daniel Favero (Proyol), João Henrique Machado (joaoHenriqueMachado), Cinglair Capello and Jeferson Souza (Souzjef), and my teatcher: Jefferson Tales Oliva.
+Some colleagues helped me and gave me some suggestions to make it, the main ones are:  <a href="https://github.com/Proyol">Daniel Gustavo Favero</a>, <a href="https://github.com/joaoHenriqueMachado">João Henrique Pereira Machado</a>, <a href="https://github.com/cinglair"> Cinglair Augusto Capelo</a> e <a href="https://github.com/souzjfe">Jeferson Souza</a>, and my teatcher: <a href ="https://github.com/jefferson-oliva">Jefferson Tales Oliva</a>.
 
 Some codes in this repository are already commented (in order to make it clean, I commented only the functions that were actually necessary to solve what the exercise requested), the ones that aren't commented, soon will be updated.
 
